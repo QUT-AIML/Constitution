@@ -1,12 +1,12 @@
-![QUT AMS Logo](https://raw.githubusercontent.com/QUT-AMS/Assets/744b2f88cdcfaf2b83e35c8ea6d28117c45fd2d4/Logo-Full.svg)
+x![QUT AIML Logo](https://raw.githubusercontent.com/QUT-AIML/Assets/744b2f88cdcfaf2b83e35c8ea6d28117c45fd2d4/Logo-Full.svg)
 
 ---
 
-# Expectations of QUT AMS Executives
+# Expectations of QUT AIML Executives
 
-All QUT AMS Executives are expected to:
+All QUT AIML Executives are expected to:
 
-- Regularly attend QUT AMS events and Executive Team meetings  
+- Regularly attend QUT AIML events and Executive Team meetings  
 - Take initiative and proactive ownership for their area of the club  
 - Act in a professional and ethical manner, and positively represent the club  
 - Commit to the expected weekly time commitment for their specified role  
@@ -30,8 +30,8 @@ All members nominating for an Executive Role at the **AGM** must be planning to 
 
 ### 🤝 Admin Team
 _Manages the club’s internal operations, governance, finances, and compliance with university requirements._
-- **President**: Requires previous QUT AMS Executive experience, 5-8 hours weekly
-- **Vice President**: Requires previous QUT AMS Executive experience, 4-6 hours weekly
+- **President**: Requires previous AIML Executive experience, 5-8 hours weekly
+- **Vice President**: Requires previous AIML Executive experience, 4-6 hours weekly
 - **Secretary**: Experience recommended, 2-4 hours weekly
 - **Treasurer**: Experience recommended, 2-4 hours weekly
 
@@ -64,7 +64,7 @@ Manages the club’s internal operations, governance, finances, and compliance w
 
 ## President
 > [!NOTE]
-> Requires previous QUT AMS Executive experience, 5-8 hours per week, in-person event attendance required
+> Requires previous AIML Executive experience, 5-8 hours per week, in-person event attendance required
 
 The President is the club’s main ambassador and is responsible for chairing club meetings. At events, the President is the one to mingle with club members, and not be carried away with managing the day-to-day operations of the club.
 
@@ -77,7 +77,7 @@ Responsibilities:
 
 ## Vice President
 > [!NOTE]
-> Requires previous QUT AMS Executive experience, 4-6 hours per week, in-person event attendance required
+> Requires previous AIML Executive experience, 4-6 hours per week, in-person event attendance required
 
 The Vice-President is the understudy to the President and will fill in for the President if the President is away. The Vice-President is also the strategic planning director and works closely with the President to ensure club operations are in line with our objectives.
 
@@ -90,7 +90,7 @@ Responsibilities:
 
 ## Secretary
 > [!NOTE]
-> Recommended previous QUT AMS experience, 2-4 hours per week
+> Recommended previous AIML experience, 2-4 hours per week
 
 The Secretary is the backbone of the club, playing a critical administrative role that ensures smooth operation and keeps everything organised. Managing meetings and club correspondence.
 
@@ -103,7 +103,7 @@ Responsibilities:
 
 ## Treasurer
 > [!NOTE]
-> Recommended previous QUT AMS experience, 2-4 hours per week
+> Recommended previous AIML experience, 2-4 hours per week
 
 The Treasurer oversees the finances of the club. This includes income from funding, sponsors, and events; and club expenditures.
 
@@ -170,11 +170,11 @@ Promotes the club through social media, design, and communications to engage cur
 > [!NOTE]
 > Previous experience not required, 3-5 hours per week, in-person event attendance desirable
 
-The Marketing Team helps QUT AMS engage with our members through our online and in-person platforms. The Marketing Director oversees the direction of the QUT AMS brand.
+The Marketing Team helps AIML engage with our members through our online and in-person platforms. The Marketing Director oversees the direction of the AIML brand.
 
 Responsibilities:
-- Develop the QUT AMS brand identity, and ensure this is maintained throughout all content.
-- Maintain a Marketing Plan for QUT AMS’s events and initiatives
+- Develop the AIML brand identity, and ensure this is maintained throughout all content.
+- Maintain a Marketing Plan for AIML’s events and initiatives
 - Delegate responsibilities to other members of the Marketing Team as required.
 
 
@@ -229,7 +229,7 @@ Plans and runs the club’s social, technical, and professional events throughou
 > [!NOTE]
 > Previous experience beneficial though not required, 3-5 hours per week, in-person event attendance expected
 
-The Events Director is responsible for the overall planning and execution of QUT AMS events in line with the club’s objectives and the strategic vision.
+The Events Director is responsible for the overall planning and execution of AIML events in line with the club’s objectives and the strategic vision.
 
 Responsibilities:
 - Maintain the club events calendar.
