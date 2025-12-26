@@ -1,7 +1,7 @@
 # Constitution
-The official constitution of QUT AMS, outlining our structure, rules, and governance.
+The official constitution of QUT AIML, outlining our structure, rules, and governance.
 
-![QUT AMS Logo](https://raw.githubusercontent.com/QUT-AMS/Assets/744b2f88cdcfaf2b83e35c8ea6d28117c45fd2d4/Logo-Full.svg)
+![QUT AIML Logo](https://raw.githubusercontent.com/QUT-AIML/Assets/744b2f88cdcfaf2b83e35c8ea6d28117c45fd2d4/Logo-Full.svg)
 
 ## Contents
 ### 1. [Name](#name)
@@ -29,7 +29,7 @@ The official constitution of QUT AMS, outlining our structure, rules, and govern
 
 <a name="name"></a>
 ## 1. Name
-The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referred to as the "Club"
+The name of the Club shall be QUT AI & ML Society (QUT AIML) and herin be referred to as the "Club"
 
 <a name="definitions"></a>
 ## 2. Definitions
@@ -113,7 +113,7 @@ The name of the Club shall be QUT AI & ML Society (QUT AMS) and herin be referre
   - **8.1.9** Maintain regular contact with the Guild.
   - **8.1.10** Ensure the Club abides by all relevant Guild regulations, policies, and terms of reference.
   - **8.1.11** Any executive who is a member of the Admin team who resigns from their position are expected to provide a full handover to the new person fulfilling their role.
-- **8.2** All Executive Members must fulfill their roles as per the role descriptions document, available on the QUT AMS GitHub profile.
+- **8.2** All Executive Members must fulfill their roles as per the role descriptions document, available on the QUT AIML GitHub profile.
 
 <a name="election-of-office-bearers"></a>
 ## 9. Election of Office Bearers
