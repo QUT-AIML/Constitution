@@ -1,7 +1,3 @@
-x![QUT AIML Logo](https://raw.githubusercontent.com/QUT-AIML/Assets/744b2f88cdcfaf2b83e35c8ea6d28117c45fd2d4/Logo-Full.svg)
-
----
-
 # Expectations of QUT AIML Executives
 
 All QUT AIML Executives are expected to:
