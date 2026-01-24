@@ -1,8 +1,6 @@
 # Constitution
 The official constitution of QUT AIML, outlining our structure, rules, and governance.
 
-![QUT AIML Logo](https://raw.githubusercontent.com/QUT-AIML/Assets/744b2f88cdcfaf2b83e35c8ea6d28117c45fd2d4/Logo-Full.svg)
-
 ## Contents
 ### 1. [Name](#name)
 ### 2. [Definitions](#definitions)
