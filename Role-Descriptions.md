@@ -22,7 +22,7 @@ There are several roles that you can volunteer for in 2025. Each role includes:
 All members nominating for an Executive Role at the **AGM** must be planning to **continue their studies at QUT in the following year**  
 (See **Clause 9.8** of the Constitution).
 
-## Summary of Roles
+# Summary of Roles
 
 ### 🤝 Admin Team
 _Manages the club’s internal operations, governance, finances, and compliance with university requirements._
