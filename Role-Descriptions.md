@@ -42,7 +42,6 @@ _Leads technical initiatives and hands-on projects to help members build skills 
 ### 📱 Marketing Team
 _Promotes the club through social media, design, and communications to engage current and future members._
 - **Marketing Director**: Experience recommended, 3-5 hours weekly
-- **Social Media Manager**: Experience not required, 2-4 hours weekly
 - **Graphic Designer**: Experience not required, 2-4 hours weekly
 - **Reels & Video Officer**: Experience not required, 2-4 hours weekly
 
@@ -174,19 +173,6 @@ Responsibilities:
 - Develop the AIML brand identity, and ensure this is maintained throughout all content.
 - Maintain a Marketing Plan for AIML’s events and initiatives
 - Delegate responsibilities to other members of the Marketing Team as required.
-
-
-## Social Media Manager
-> [!NOTE]
-> Previous experience not required, 2-4 hours per week
-
-The Social Media Manager plans, schedules, and manages content across platforms, engages the audience, and tracks performance to optimize the club’s online presence.
-
-Responsibilities:
-- Creates content calendars and schedules posts consistently for optimal engagement.
-- Engages with followers, responds to messages/comments, and moderates online discussions.
-- Tracks post performance and adjusts content strategies accordingly.
-- Responsible for finding memes and trends on social media, and relaying them to our reels and video officer
 
 
 ## Graphic Designer
