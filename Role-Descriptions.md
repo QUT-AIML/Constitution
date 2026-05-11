@@ -74,14 +74,14 @@ Responsibilities:
 
 ## Vice President
 > [!NOTE]
-> Requires previous AIML Executive experience, 4-6 hours per week, in-person event attendance required
+> Requires previous AIML Executive (Admin or Director level) experience, 4-6 hours per week, in-person event attendance required
 
 The Vice-President is the understudy to the President and will fill in for the President if the President is away. The Vice-President is also the strategic planning director and works closely with the President to ensure club operations are in line with our objectives.
 
 Responsibilities:
 - Assist the President in carrying out their duties
 - Assume the duties of the President in their absence.
-- Act as Deputy Chairperson for club meetings.
+- Monitors club engagement and identifies opportunities to boost member participation
 - Monitor the club’s strategic plan, ensuring the club’s functions are moving in the right direction.
 - Have a good working knowledge of the club’s constitution and rules.
 
