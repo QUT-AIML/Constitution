@@ -93,10 +93,10 @@ The Secretary is the backbone of the club, playing a critical administrative rol
 
 Responsibilities:
 - Assist the President in carrying out their duties.
-- Coordinate meetings of the Executive Team, and work with the President to draft the agenda, distribute notices, and take formal minutes.
-- Monitor the club’s strategic plan, ensuring the club’s functions are moving in the right direction.
-- Have a good working knowledge of the club’s constitution and rules.
 - Act as the central point of communication for members, the Executive, and external stakeholders.
+- Manage and coordinate room bookings for club meetings, events, and activities, ensuring spaces are booked and communicated effectively.
+- Coordinate meetings of the Executive Team, and work with the President to draft the agenda, distribute notices, and take formal minutes.
+- Have a good working knowledge of the club’s constitution and rules.
 
 ## Treasurer
 > [!NOTE]
