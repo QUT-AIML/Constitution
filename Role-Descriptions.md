@@ -20,7 +20,7 @@ There are several roles that you can volunteer for in 2025. Each role includes:
 ## Eligibility
 
 All members nominating for an Executive Role at the **AGM** must be planning to **continue their studies at QUT in the following year**  
-(See **Clause 9.8** of the Constitution).
+(See **Section 5** of the Constitution).
 
 -----
 
@@ -28,31 +28,34 @@ All members nominating for an Executive Role at the **AGM** must be planning to 
 
 ### 🤝 Admin Team
 _Manages the club’s internal operations, governance, finances, and compliance with university requirements._
-- **President**: Requires previous AIML Executive experience, 5-8 hours weekly
-- **Vice President**: Requires previous AIML (Admin or Director) Executive experience, 4-6 hours weekly
-- **Secretary**: Experience recommended, 2-4 hours weekly
-- **Treasurer**: Experience recommended, 2-4 hours weekly
+- **President**: Requires previous AIML Executive experience 1yr, 5-8 hours weekly
+- **Vice President**: Requires previous AIML (Admin or Director) Executive experience 1yr, 4-6 hours weekly
+- **Secretary**: Requires previous AIML (Admin or Director) Executive experience 1yr, 2-4 hours weekly
+- **Treasurer**: Requires previous AIML (Admin or Director) Executive experience 1yr, 2-4 hours weekly
 
 ### 🛠️ Projects Team
 _Leads technical initiatives and hands-on projects to help members build skills and experience._
-- **Projects Director**: Technical Experience required, or proven interest in AI & ML, 3-5 hours weekly
-- **Projects Manager**: Technical Experience required, or proven interest in AI & ML, 3-5 hours weekly
+- **Projects Director**: Requires previous AIML Executive experience 1yr, Technical Experience Required, 3-5 hours weekly
 - **Projects Officer**: Technical Experience required, or proven interest in AI & ML, 2-4 hours weekly
 
 ### 📱 Marketing Team
 _Promotes the club through social media, design, and communications to engage current and future members._
-- **Marketing Director**: Experience recommended, 3-5 hours weekly
-- **Graphic Designer**: Experience not required, 2-4 hours weekly
-- **Reels & Video Officer**: Experience not required, 2-4 hours weekly
+- **Marketing Director**: Requires previous AIML Executive experience 1yr, 3-5 hours weekly
+- **Marketing Officer**: Experience not required, 2-4 hours weekly
 
-### 🎉 Events Team
-_Plans and runs the club’s social, technical, and professional events throughout the year._
-- **Events Director**: Experience recommended, 3-5 hours weekly
-- **Activities Facilitator**: Experience not required, 2-4 hours weekly
+### 🎉 Education Team
+_Designs and delivers learning experiences to help members grow their AIML skills._
+- **Education Director**: Requires previous AIML Executive experience 1yr, 3-5 hours weekly
+- **Education Officer**: Experience not required, 2-4 hours weekly
 
-### 👥 Other
-- **Industry Director**: Experience recommended, 3-5 hours weekly
-- **Engagement Officer**: Experience not required, 2-4 hours weekly
+### 👥 Industry Team
+_Connects the club with industry professionals, companies, and organisations to create meaningful opportunities for members._
+- **Industry Director**: Requires previous AIML Executive experience 1yr, 3-5 hours weekly
+- **Industry Officer**: Experience not required, 2-4 hours weekly
+
+### 🏛️ Independent
+_Provides experienced guidance and oversight to support the Executive Team._
+- **Chief Returning Officer**: Requires previous AIML Admin Team experience 1yr, 1-2 hours weekly
 
 -----
 
@@ -61,16 +64,17 @@ Manages the club’s internal operations, governance, finances, and compliance w
 
 ## President
 > [!NOTE]
-> Requires previous AIML Executive experience, 5-8 hours per week, in-person event attendance required
+> Requires previous AIML Executive experience 1yr, 5-8 hours per week, in-person event attendance required
 
 The President is the club’s main ambassador and is responsible for chairing club meetings. At events, the President is the one to mingle with club members, and not be carried away with managing the day-to-day operations of the club.
 
 Responsibilities:
-- Help set the strategic direction of the club
-- Act as the club’s ambassador.
-- Chair Executive Team meetings.
-- Have a good working knowledge of the club’s constitution and rules.
-- Provide assistance and guidance to other executives.
+- Define the club's goals and priorities to ensure all activities align with its mission and values.
+- Represent the club at university and external events, maintaining a professional image that reflects the club's identity.
+- Facilitate productive meetings by setting agendas and ensuring decisions are made efficiently and in the club's best interest.
+- Uphold a thorough understanding of governing documents to ensure all decisions and activities remain compliant and fair.
+- Mentor Executive Team members, offering guidance and fostering a collaborative and motivated team environment.
+
 
 ## Vice President
 > [!NOTE]
@@ -79,11 +83,11 @@ Responsibilities:
 The Vice-President is the understudy to the President and will fill in for the President if the President is away. The Vice-President is also the strategic planning director and works closely with the President to ensure club operations are in line with our objectives.
 
 Responsibilities:
-- Assist the President in carrying out their duties
-- Assume the duties of the President in their absence.
-- Monitors club engagement and identifies opportunities to boost member participation
-- Monitor the club’s strategic plan, ensuring the club’s functions are moving in the right direction.
-- Have a good working knowledge of the club’s constitution and rules.
+- Support the President in day-to-day leadership, acting as a close collaborator on key decisions and club operations.
+- Step in to assume presidential duties when the President is unavailable, ensuring continuity of leadership.
+- Track member engagement and proactively identify initiatives to boost participation and foster a strong club community.
+- Act as a liaison between the Executive Team and general members, ensuring feedback and concerns are heard and addressed.
+- Monitor progress against the club's strategic plan, flagging any misalignments and keeping the Executive Team accountable.
 
 ## Secretary
 > [!NOTE]
@@ -92,11 +96,12 @@ Responsibilities:
 The Secretary is the backbone of the club, playing a critical administrative role that ensures smooth operation and keeps everything organised. Managing meetings and club correspondence.
 
 Responsibilities:
-- Assist the President in carrying out their duties.
-- Act as the central point of communication for members, the Executive, and external stakeholders.
-- Manage and coordinate room bookings for club meetings, events, and activities, ensuring spaces are booked and communicated effectively.
-- Coordinate meetings of the Executive Team, and work with the President to draft the agenda, distribute notices, and take formal minutes.
-- Have a good working knowledge of the club’s constitution and rules.
+- Support the President in carrying out their duties, acting as a reliable and organised right-hand across club operations.
+- Serve as the central point of contact for members, executives, and external stakeholders, ensuring clear and timely communication.
+- Manage room bookings for all club meetings, events, and activities, ensuring spaces are secured and details are communicated to relevant parties.
+- Coordinate Executive Team meetings by working with the President to draft agendas, distribute notices, and take accurate formal minutes.
+- Maintain a solid understanding of the club's constitution and rules to support compliant and well-informed administrative decisions.
+  
 
 ## Treasurer
 > [!NOTE]
@@ -105,12 +110,11 @@ Responsibilities:
 The Treasurer oversees the finances of the club. This includes income from funding, sponsors, and events; and club expenditures.
 
 Responsibilities:
-- Maintain the club’s financial records.
-- Prepare and maintain the club’s budget.
-- Provide financial reports at meetings as required.
-- Manage transaction and reimbursement requests.
-- Manage funding and grant applications.
-- Have a good working knowledge of the club’s constitution and rules.
+- Maintain accurate and up-to-date financial records, tracking all income and expenditure across the club's activities.
+- Prepare and manage the club's budget, ensuring resources are allocated effectively to support the club's goals.
+- Process transaction and reimbursement requests in a timely and accurate manner, ensuring all expenses are properly documented.
+- Research, prepare, and submit funding and grant applications to secure financial support for the club's initiatives.
+- Maintain a solid understanding of the club's constitution and rules to ensure all financial decisions remain compliant and fair.
 
 -----
 
@@ -124,24 +128,11 @@ Leads technical initiatives and hands-on projects to help members build skills a
 The Projects Director works alongside the Projects Manager to set the vision and strategic direction for club projects, devising initiatives for members to pursue and guiding the overall roadmap.
 
 Responsibilities:
-- Define the long-term vision and objectives for club projects.
-- Devise project ideas and themes for members to pick up.
-- Provide high-level guidance and mentorship to Project Manager and Officers.
-- Approve project briefs and ensure alignment with club goals.
-
-
-## Projects Manager
-> [!NOTE]
-> Technical expertise required or proven interest in AI & ML, 3-5 hours per week, in-person event attendance expected
-
-The Projects Manager works alongside the Projects Director to oversee project execution, support Project Officers, and ensure progress aligns with the club’s project vision.
-
-Responsibilities:
-- Coordinate the program for Project Nights.
-- Oversee Project Officers and delegate ownership responsibilities.
-- Monitor progress of ongoing projects and provide support where needed.
-- Facilitate mini-workshops or skill sessions to help members complete projects.
-- Report updates to the Projects Director and suggest improvements.
+- Define the long-term vision and objectives for club projects, shaping the overall direction of technical initiatives throughout the year.
+- Devise project ideas and themes for members to pursue, ensuring a diverse and engaging range of opportunities for all skill levels.
+- Provide high-level guidance and mentorship to the Projects Officers, supporting them in delivering projects effectively.
+- Approve project ideas and ensure all initiatives are well-scoped, achievable, and aligned with the club's mission and goals.
+- Monitor the overall health of the projects program, identifying and addressing any challenges or gaps in delivery.
 
   
 ## Projects Officer
@@ -151,12 +142,11 @@ Responsibilities:
 The Projects Officer will support the Projects Director in the development of club projects and in the delivery of project nights. They will bring their own unique technical expertise and experience to support members to build their projects.
 
 Responsibilities:
-- Assist with devising project briefs.
-- Support members to find projects to work on.
+- Assist in developing projects, including scope, tools, and expected outcomes.
+- Support members during Project Nights by helping with setup, debugging, and problem-solving.
 - Help to facilitate mini-workshops on smaller projects.
-- Provide informal mentoring to members on their projects.
-- Take ownership of projects in agreement with the Projects Director.
-- Other responsibilities as delegated by the Projects Director.
+- Provide informal mentoring and guidance to members working on projects.
+- Work with the Projects Manager to monitor progress and flag issues or support needs.
 
 -----
 
@@ -165,107 +155,109 @@ Promotes the club through social media, design, and communications to engage cur
 
 ## Marketing Director
 > [!NOTE]
-> Previous experience not required, 3-5 hours per week, in-person event attendance desirable
+> Requires previous AIML Executive experience 1yr, 3-5 hours weekly
 
-The Marketing Team helps AIML engage with our members through our online and in-person platforms. The Marketing Director oversees the direction of the AIML brand.
+The Marketing Director oversees the AIML brand and marketing strategy, directing the team to produce consistent, engaging content across all platforms and initiatives.
 
 Responsibilities:
-- Develop the AIML brand identity, and ensure this is maintained throughout all content.
-- Maintain a Marketing Plan for AIML’s events and initiatives
-- Delegate responsibilities to other members of the Marketing Team as required.
+- Develop and maintain the AIML brand identity, ensuring consistency across all visual content, communications, and platforms.
+- Create and maintain a Marketing Plan that coordinates promotional efforts across the club's events and initiatives throughout the year.
+- Oversee the production of visual and video content, ensuring all output meets the club's brand standards and engages the target audience.
+- Manage the club's social media presence at a strategic level, guiding tone, scheduling, and platform priorities.
+- Review and approve content produced by Marketing Officers before publication to maintain quality and brand alignment.
 
 
-## Graphic Designer
+## Marketing Officer
 > [!NOTE]
-> Previous experience not required, 2-4 hours per week
+> Experience not required, 2-4 hours weekly
 
-The Graphic Designer produces branded visual content, including posters, social media graphics, and templates, to support the club’s marketing efforts.
-
-Responsibilities:
-- Produces static visual materials including posters, banners, infographics, and event promotional designs.
-- Ensures all graphics align with club branding guidelines and maintain a consistent look and feel.
-- Creates templates for social media posts, newsletters, and slide decks.
-- Supports the Slide Deck Officer (Events Team) by providing branded visual elements and design assets.
-- Maintains an organised library of design templates and reusable graphics.
-
-
-## Reels & Video Officer
-> [!NOTE]
-> Previous experience not required, 2-4 hours per week, in-person event attendance desirable
-
-The Reels & Video Officer creates, edits, and posts engaging short-form video content to boost the club’s social media presence.
+The Marketing Officer supports the club's online presence by creating engaging social media content, short-form videos, and visual assets to grow and connect with the AIML community.
 
 Responsibilities:
-- Creates short-form video content (e.g., Instagram Reels, TikTok) to boost club engagement and reach.
-- Handles event video coverage including filming, editing, and producing highlight reels.
-- Ensures videos are platform-optimized (aspect ratios, subtitles, music licensing).
-- Works with the Social Media Manager to identify trending content opportunities and integrate them into campaigns.
-- Maintains a library of raw footage and final edits for future use.
+- Produces static visual materials including graphics, posters, banners, and event promotional designs.
+- Creates short-form video content (e.g. Instagram Reels) to boost club engagement and reach.
+- Engages with followers, responds to messages and comments, and moderates online discussions.
+- Handle event photo and video coverage including filming, editing, an d producing content
+- Assist in any other areas where required by Marketing Director.
 
 
 
 -----
 
-# Events Team
-Plans and runs the club’s social, technical, and professional events throughout the year.
+# Education Team
+Plans and delivers educational workshops, tutorials, and learning sessions to help members grow their AIML skills.
 
 ## Events Director
 > [!NOTE]
-> Previous experience beneficial though not required, 3-5 hours per week, in-person event attendance expected
+> Requires previous AIML Executive experience 1yr, 3-5 hours weekly
 
-The Events Director is responsible for the overall planning and execution of AIML events in line with the club’s objectives and the strategic vision.
+The Education Director sets the vision and direction for the club's learning initiatives, ensuring educational content is relevant, accessible, and aligned with member needs.
 
 Responsibilities:
-- Maintain the club events calendar.
-- Proactively maintain detailed event plans throughout the year, including:
-  - Planning timelines
-  - Runsheets
-  -  Risk assessments
-  -  Catering
--  Facilitate events where required
--  Delegating areas of responsibilities of events to Events Officers.
--  Collaborate with the Marketing and Projects teams in planning events.
+- Define the vision and structure for the club's educational initiatives and learning pathways throughout the year.
+- Plan and oversee the delivery of workshops, tutorials, and skill-building sessions across the semester.
+- Guide and support Education Officers in developing and delivering high-quality educational content.
+- Ensure educational content is aligned with ongoing club projects and appropriate for member skill levels.
+- Identify skill gaps within the club and proactively introduce relevant learning initiatives to address them.
 
-## Activities Facilitator
+## Education Officer
 > [!NOTE]
-> Previous experience not required, 2-4 hours per week, in-person event attendance expected (where required)
+> Experience not required, 2-4 hours weekly
 
-The Activities Facilitator is responsible for designing and hosting interactive event activities, coordinating volunteers, and gathering feedback to improve audience engagement and future events.
+The Education Officer assists in developing and delivering learning experiences, creating structured materials, and supporting members in building their AIML knowledge and skills.
 
 Responsibilities:
-- Designs the activity flow (e.g., trivia questions, game rounds, interactive segments).
-- Acts as MC/host during events, keeping energy high and guiding attendees through the schedule.
-- Coordinates volunteers running individual activities or game stations.
-- Collects quick feedback during/after events to improve future activities
-- Writes short event reflections summarising what worked well, what can be improved, and key audience feedback for future planning.
-
+- Assist in planning and delivering educational workshops, tutorials, and learning sessions for club members.
+- Develop structured learning materials such as slides, notebooks, and guides to support workshop delivery.
+- Support beginner-friendly initiatives to help new members get started with AIML concepts and tools.
+- Identify knowledge gaps within the club and propose relevant learning opportunities to the Education Director.
+- Facilitate workshops and provide hands-on support to attendees during sessions.
 
 
 -----
 
-# Other Supporting Roles
+# Industry Team
+Connects the club with industry professionals, companies, and organisations to create meaningful opportunities for members.
 
 ## Industry Director
 > [!NOTE]
-> Previous experience beneficial though not required, 3-5 hours per week
+> Requires previous AIML Executive experience 1yr, 3-5 hours weekly
 
 The Industry Director is responsible for developing industry connections, securing potential speakers, and fostering partnerships with sponsors to support the club’s objectives and strategic vision.
 
 Responsibilities:
-- Reaches out to professionals, companies, and organisations to build and maintain industry connections.
-- Identifies and secures potential guest speakers, panelists, and mentors for club events.
-- Encourages and develops partnerships with potential sponsors to support club activities.
-- Tracks and documents outreach efforts to ensure continuity and long-term relationship building.
+- Develop and lead the club’s industry engagement strategy and partnership pipeline.
+- Oversee outreach to companies, professionals, and organisations to build long-term relationships.
+- Manage and support the Industry Officer, delegating outreach and coordination tasks.
+- Maintain strong relationships with sponsors and ensure delivery of partnership expectations.
+- Secure and coordinate guest speakers, panelists, and mentors for events.
 
-## Engagement Officer
+## Insustry Officer
 > [!NOTE]
-> Previous experience beneficial though not required, 2-4 hours per week
+> Experience not required, 2-4 hours weekly
 
-The Engagement Officer acts as the central connector between Events, Marketing, and Industry teams, ensuring that all initiatives are engaging, aligned with club values, and fulfill industry obligations. They monitor performance, coordinate collaborations, and advise on strategies to maintain authentic messaging and meaningful experiences for members.
+The Industry Officer supports the Industry Director in building and maintaining the club's external relationships, helping coordinate industry events and communications with partners and stakeholders.
 
 Responsibilities:
-- Works with the Admin Team by preparing monthly engagement reports, using analytics tools (e.g., Meta Business Suite) to track reach, engagement, and audience growth, and providing recommendations to improve overall engagement.
-- Works with the Marketing Team by helping to review content to ensure post communication aligns with member expectations
-- Works with the Events Team by acting as the main point of contact for other clubs, facilitating partnerships and recommending joint events to the Events Director that provide meaningful experiences
-- Works with the Events and Marketing Teams to ensure all events and promotional activities uphold the expectations of industry agreements, as informed by the Industry Director, providing guidance to maintain compliance.
-- Supports online community engagement by monitoring and improving interaction on platforms like Discord, identifying opportunities to foster active, meaningful member participation and strengthen the club’s online presence.
+- Assist the Industry Director with outreach to professionals, companies, and organisations.
+- Assist in organising and running industry-related events (e.g., panels, networking sessions).
+- Support the Industry Director in maintaining ongoing relationships with partners and sponsors.
+- Support coordination of guest speakers, panelists, and mentors for events.
+- Help prepare communication materials and correspondence with external stakeholders.
+
+
+
+-----
+
+## Chief Returning Officer
+
+>[!NOTE]
+> Requires previous AIML Admin Team experience, 1-2 hours weekly
+
+The Chief Returning Officer is a senior advisory role held by an experienced former high ranking executive, providing independent guidance and mentorship to support the current Executive Team in leading the club effectively.
+
+Responsibilities:
+- Provide guidance and mentorship to newly elected executives, particularly within the Admin Team and Director roles.
+- Offer advice on strategic decisions, governance, and club operations when required.
+- Act as an independent and experienced sounding board for the Executive Team.
+- Provide input on long-term direction while respecting the autonomy of the current Executive Team
