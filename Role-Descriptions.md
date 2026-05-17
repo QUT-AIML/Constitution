@@ -28,7 +28,7 @@ All members nominating for an Executive Role at the **AGM** must be planning to 
 
 ### 🤝 Admin Team
 _Manages the club’s internal operations, governance, finances, and compliance with university requirements._
-- **President**: Requires previous AIML Executive experience 1yr, 5-8 hours weekly
+- **President**: Requires previous AIML (Admin or Director) Executive experience 1yr, 5-8 hours weekly
 - **Vice President**: Requires previous AIML (Admin or Director) Executive experience 1yr, 4-6 hours weekly
 - **Secretary**: Requires previous AIML (Admin or Director) Executive experience 1yr, 2-4 hours weekly
 - **Treasurer**: Requires previous AIML (Admin or Director) Executive experience 1yr, 2-4 hours weekly
