@@ -226,11 +226,11 @@ Connects the club with industry professionals, companies, and organisations to c
 The Industry Director is responsible for developing industry connections, securing potential speakers, and fostering partnerships with sponsors to support the club’s objectives and strategic vision.
 
 Responsibilities:
-- Develop and lead the club’s industry engagement strategy and partnership pipeline.
-- Oversee outreach to companies, professionals, and organisations to build long-term relationships.
-- Manage and support the Industry Officer, delegating outreach and coordination tasks.
+- Define and lead the club's industry engagement strategy, including sponsorship and partnership goals.
 - Maintain strong relationships with sponsors and ensure delivery of partnership expectations.
-- Secure and coordinate guest speakers, panelists, and mentors for events.
+- Identify and secure high-value guest speakers, panelists, and mentors for events.
+- Oversee outreach to companies, professionals, and organisations to build long-term relationships.
+- Lead the club's LinkedIn presence, setting content direction and working with Marketing on execution.
 
 ## Insustry Officer
 > [!NOTE]
