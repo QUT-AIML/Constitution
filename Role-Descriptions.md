@@ -46,7 +46,7 @@ _Promotes the club through social media, design, and communications to engage cu
 ### 🎉 Education Team
 _Designs and delivers learning experiences to help members grow their AIML skills._
 - **Education Director**: Requires previous AIML Executive experience 1yr, 3-5 hours weekly
-- **Education Officer**: Experience not required, 2-4 hours weekly
+- **Education Officer**: Technical Experience required, or proven interest in AI & ML, 2-4 hours weekly
 
 ### 👥 Industry Team
 _Connects the club with industry professionals, companies, and organisations to create meaningful opportunities for members._
@@ -202,7 +202,7 @@ Responsibilities:
 
 ## Education Officer
 > [!NOTE]
-> Experience not required, 2-4 hours weekly
+> Technical Experience required, or proven interest in AI & ML, 2-4 hours weekly
 
 The Education Officer assists in developing and delivering learning experiences, creating structured materials, and supporting members in building their AIML knowledge and skills.
 
