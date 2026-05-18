@@ -187,7 +187,7 @@ Responsibilities:
 # Education Team
 Plans and delivers educational workshops, tutorials, and learning sessions to help members grow their AIML skills.
 
-## Events Director
+## Education Director
 > [!NOTE]
 > Requires previous AIML Executive experience 1yr, 3-5 hours weekly
 
