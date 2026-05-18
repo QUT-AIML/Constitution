@@ -71,7 +71,7 @@ The President is the club’s main ambassador and is responsible for chairing cl
 Responsibilities:
 - Define the club's goals and priorities to ensure all activities align with its mission and values.
 - Represent the club at university and external events, maintaining a professional image that reflects the club's identity.
-- Facilitate productive meetings by setting agendas and ensuring decisions are made efficiently and in the club's best interest.
+- Chair all club meetings, ensuring decisions are made efficiently and in the club's best interest.
 - Uphold a thorough understanding of governing documents to ensure all decisions and activities remain compliant and fair.
 - Mentor Executive Team members, offering guidance and fostering a collaborative and motivated team environment.
 
