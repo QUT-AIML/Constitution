@@ -125,7 +125,7 @@ Leads technical initiatives and hands-on projects to help members build skills a
 > [!NOTE]
 > Technical expertise required or proven interest in AI & ML, 3-5 hours per week, in-person event attendance expected
 
-The Projects Director works alongside the Projects Manager to set the vision and strategic direction for club projects, devising initiatives for members to pursue and guiding the overall roadmap.
+The Projects Director works to set the vision and strategic direction for club projects, devising initiatives for members to pursue and guiding the overall roadmap.
 
 Responsibilities:
 - Define the long-term vision and objectives for club projects, shaping the overall direction of technical initiatives throughout the year.
@@ -146,7 +146,7 @@ Responsibilities:
 - Support members during Project Nights by helping with setup, debugging, and problem-solving.
 - Help to facilitate mini-workshops on smaller projects.
 - Provide informal mentoring and guidance to members working on projects.
-- Work with the Projects Manager to monitor progress and flag issues or support needs.
+- Work under the Projects Director monitor progress and flag issues or support needs.
 
 -----
 
